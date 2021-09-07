@@ -258,5 +258,3 @@ def merge_sort(values):
   sorted_values += right_values[j:]
 
   return sorted_values
-
-test
